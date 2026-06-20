@@ -1,10 +1,10 @@
 import { useState } from "react";
 
-import photo1 from "../assets/photos/photo1.jpg";
-import photo2 from "../assets/photos/photo2.jpg";
-import photo3 from "../assets/photos/photo3.jpg";
-import photo4 from "../assets/photos/photo4.jpg";
-import photo5 from "../assets/photos/photo5.jpg";
+import photo1 from "../assets/photos/photo1.JPG";
+import photo2 from "../assets/photos/photo2.JPG";
+import photo3 from "../assets/photos/photo3.JPG";
+import photo4 from "../assets/photos/photo4.JPG";
+import photo5 from "../assets/photos/photo5.JPG";
 
 export default function Memories() {
   const visited =
